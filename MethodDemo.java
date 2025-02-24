@@ -1,6 +1,5 @@
 public class MethodDemo {
     public static void main(String[] args) {
-            //... (main and greet methods)..
             greet(); // Calling the greet method
             printMessage("This is my message!");
         }
